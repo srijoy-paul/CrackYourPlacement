@@ -2,6 +2,10 @@
   "files.associations": {
     "*.tcc": "cpp",
     "deque": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "array": "cpp",
+    "any": "cpp",
+    "string_view": "cpp",
+    "regex": "cpp"
   }
 }
